@@ -20,7 +20,6 @@ Here, I document my learning, highlight key projects, and share insights into to
 
 Here's a comprehensive overview of the tools and technologies I've mastered in my DevOps journey:
 
-
 ### **DevOps Tools**
 - **Docker**: Efficient containerization of web applications.
 - **Kubernetes**: Orchestration for scalable, reliable deployments.
@@ -30,7 +29,6 @@ Here's a comprehensive overview of the tools and technologies I've mastered in m
 - **Jenkins**: Continuous Integration and Deployment automation.
 - **Ansible**: Configuration management and automation tool.
 - **AWS**: Cloud infrastructure and services deployment.
-
 
 ---
 
@@ -43,12 +41,11 @@ Here's a comprehensive overview of the tools and technologies I've mastered in m
 | **Echo** | Desktop Chat Application with real-time messaging, custom UI components, and network communication. | SDL, SFML, ImGui | [GitHub](https://github.com/hassannawaz1210/Echo) |
 | **Vertex** | A Steam-like desktop application featuring game library management, user profiles, and social features. Built with modern JavaFX for a responsive UI. | JavaFX, CSS, SQLite | [GitHub](https://github.com/hassannawaz1210/Vertex) |
 
-
 ---
 
 ## Blogs
 
-### Blog 1: Introduction to Prometheus
+### [Introduction to Prometheus](https://medium.com/@hassannawaz69/understanding-prometheus-8e567bfdbfef)
 
 In this blog, I explored how Prometheus serves as a powerful monitoring tool in cloud-native environments, offering simplicity and robust querying capabilities.
 
@@ -59,11 +56,7 @@ In this blog, I explored how Prometheus serves as a powerful monitoring tool in 
 - **Streamlined Monitoring**: Automatically discovers and scrapes metrics from configured targets.
 - **Real-World Use Case**: Step-by-step guide to setting up Prometheus and monitoring system metrics.
 
-For full blog, click [here](https://medium.com/@hassannawaz69/understanding-prometheus-8e567bfdbfef).
-
----
-
-### Blog 2: Docker Swarm vs Kubernetes: Choosing the Right Orchestration Tool
+### [Docker Swarm vs Kubernetes: Choosing the Right Orchestration Tool](https://medium.com/@hassannawaz69/docker-swarm-vs-kubernetes-afcd89a76879)
 
 In this blog, I explored how orchestration tools like Docker Swarm and Kubernetes help automate the deployment, scaling, and management of containers, and how to choose the right one for your project.
 
@@ -83,20 +76,14 @@ In this blog, I explored how orchestration tools like Docker Swarm and Kubernete
   - Docker Swarm is simpler and fits straightforward deployments.
   - Kubernetes provides more features and scalability for complex environments.
 
-For full blog, click [here](https://medium.com/@hassannawaz69/docker-swarm-vs-kubernetes-afcd89a76879).
-
 ---
 
 ## Resume
 
 📄 **[View My Resume](HassanNawaz_CS_Resume.pdf)**
 
----
-
 ## Connect With Me
 
 I’d love to connect and collaborate!  
 - [LinkedIn Profile](https://www.linkedin.com/in/hassannawaz-ln/)  
 - [GitHub Profile](https://github.com/hassannawaz1210)
-
----
